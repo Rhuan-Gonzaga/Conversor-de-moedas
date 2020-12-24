@@ -1,0 +1,47 @@
+.container{
+    background-color:white;
+    max-width: 300px;
+    margin: auto;
+    padding: 60px;
+    border-radius: 100px;
+    margin-top: 50px;   
+}
+
+h3{
+    font-style:initial;
+    font-size: 30px;
+}
+body{
+    background-image: url(_img/lo7.jpeg);
+    
+}
+
+.lista{
+    list-style-image: url(_img/icon.png);
+    
+}
+
+button{
+    background-color: whitesmoke;
+    border-radius: 80px;
+    font-size: 20px;
+    
+}
+
+input {
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+footer{
+    background-color: white;
+    margin-top: 80px;
+    
+    
+}
+
+
+
